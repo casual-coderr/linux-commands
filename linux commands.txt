@@ -1,0 +1,11 @@
+FAil2Ban
+
+sudo zgrep 'Ban' /var/log/fail2ban.log*
+= show the bans in fail2ban
+
+cat /var/log/fail2ban.log
+= show all logs of fail2ban
+
+Nala
+sudo nala *
+= use nala instead of apt
