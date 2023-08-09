@@ -9,3 +9,9 @@ cat /var/log/fail2ban.log
 Nala
 sudo nala *
 = use nala instead of apt
+
+Linux
+rm -r <foldername>
+remove all files in folder and delete folder
+
+
